@@ -2,7 +2,10 @@
 Applying general search algorithms to Pacman scenarios. Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently.
 
 ### Instructions for this project
-http://ai.berkeley.edu/search.html"
+http://ai.berkeley.edu/search.html
+
+### Solutions
+[Project Report.pdf](https://github.com/hmtkvs/Search-Algorithms-in-AI---Pacman/blob/main/Project_Report.pdf)
 
 ### Commands to Run
 - `python pacman.py`
@@ -28,6 +31,3 @@ http://ai.berkeley.edu/search.html"
 - `python pacman.py -l bigSearch -p ClosestDotSearchAgent -z .5`
 - `python pacman.py -l bigSearch -p ApproximateSearchAgent -z .5 -q` 
 
-
-### Project Report
-[Final Report.pdf](https://github.com/hmtkvs/Search-Algorithms-in-AI---Pacman/blob/main/Project_Report.pdf)
