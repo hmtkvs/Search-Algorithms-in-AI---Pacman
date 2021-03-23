@@ -3,6 +3,7 @@ Applying general search algorithms to Pacman scenarios. Pacman agent will find p
 <p align="center">
 <img src="https://frpnet.net/wp-content/uploads/2016/10/pacman-gif.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 </p>
+
 ### Instructions for this project
 http://ai.berkeley.edu/search.html
 
