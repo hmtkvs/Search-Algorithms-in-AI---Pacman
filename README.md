@@ -1,8 +1,8 @@
 # UPF MIIS Masters, Autonomous Systems - Project 1
 Applying general search algorithms to Pacman scenarios. Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently.
-<center>
+<p align="center">
 <img src="https://frpnet.net/wp-content/uploads/2016/10/pacman-gif.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
-</center>
+</p>
 ### Instructions for this project
 http://ai.berkeley.edu/search.html
 
