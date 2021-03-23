@@ -10,6 +10,7 @@ http://ai.berkeley.edu/search.html
 [Project Report.pdf](https://github.com/hmtkvs/Search-Algorithms-in-AI---Pacman/blob/main/Project_Report.pdf)
 
 ### Commands to Run
+Scripts should be run with `Python 2.7`
 - `python pacman.py`
 - `python pacman.py --layout testMaze --pacman GoWestAgent`
 - `python pacman.py --layout tinyMaze --pacman GoWestAgent`
