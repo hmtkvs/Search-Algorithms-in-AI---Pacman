@@ -33,4 +33,4 @@ http://ai.berkeley.edu/search.html"
 ### Project Report
 [Project_Report.pdf](https://github.com/hmtkvs/Search-Algorithms-in-AI---Pacman/files/6192579/Project_Report.pdf)
 
-[Project_Report.pdf](https://github.com/hmtkvs/Search-Algorithms-in-AI---Pacman/files/6192714/Project_Report.pdf)
+[Project_Report.pdf](https://github.com/hmtkvs/Search-Algorithms-in-AI---Pacman/blob/main/Project_Report.pdf)
